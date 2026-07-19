@@ -100,7 +100,7 @@
   <a href="mailto:bakhodiryashinmansur@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://t.me/+998937536571">
+  <a href="https://t.me/BakhodirYashinMansur">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
